@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nestorlls&theme=tokyonight" alt="nestorlls"/>
 
-![Snake animation](https://github.com/nestorlls/github-readme/blob/output/github-contribution-snake.svg)
