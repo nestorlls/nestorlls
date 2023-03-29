@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # 🔧 Technologies
 
 <p>
-  <a href="https://www.learn-html.org/" tagert="blank">
+  <a href="https://www.learn-html.org/" tagert="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=white" />
   </a>
   
