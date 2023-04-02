@@ -1,35 +1,17 @@
-### Hi there 👋
+<h1> Hi 👋 I'am Paul Llanque</h1>
+<p>A Full Stack Web Developer from Perú</p>
 
-<!--
-**nestorlls/nestorlls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li> I'm currently learning Vue js</li>
+  <li> Ask me about React or Javascript</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-
--->
 
 
 <h2>Tecnologies</h2>
 
 <p>
-  <a href="https://www.learn-html.org/" tagert="_blank">
+  <a href="https://www.learn-html.org/" tagert="blank">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=white" />
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" tagert="_blank">
