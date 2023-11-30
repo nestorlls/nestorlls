@@ -6,8 +6,8 @@
 </p>
 
 <ul>
-  <li>☝🤓 I'm currently learning Nest.js</li>
-  <li> 🤓 Ask me about React or Javascript</li>
+  <li>☝🤓 I'm currently learning Angular</li>
+  <li> 🤓 Ask me about React, javascript, TypeScript</li>
 </ul>
 
 <h2>Tecnologies</h2>
