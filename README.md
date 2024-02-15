@@ -1,5 +1,5 @@
-<h1 align='center'> Hi 👋 I'am Paul Llanque</h1>
-<h3 align='center'>A Full Stack Web Developer from Perú</h3>
+<h1 align='center'> Hi 👋 I'm Paul Llanque</h1>
+<h3 align='center'>A Full Stack Web Developer from Peru</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nestorlls&label=Profile%20views&color=0e75b6&style=flat" alt="nestorlls" />
@@ -7,7 +7,7 @@
 
 <ul>
   <li>☝🤓 I'm currently learning Angular</li>
-  <li> 🤓 Ask me about React, javascript, TypeScript</li>
+  <li> 🤓 Ask me about React, javascript, TypeScript and Angular</li>
 </ul>
 
 <h2>Tecnologies</h2>
